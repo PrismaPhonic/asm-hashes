@@ -10,8 +10,7 @@
 // Ronen Zohar <ronen.zohar@intel.com>
 // Chandramouli Narayanan <mouli@linux.intel.com>
 
-
-#include "textflag.h"
+// #include "textflag.h"
 
 // SHA-1 block routine. See sha1block.go for Go equivalent.
 //
